@@ -1,7 +1,7 @@
 header{
     background-color: rgb(143, 145, 252);
-    color: rgb(255, 255, 255);
-    padding: 15px;
+    color: rgb(238, 238, 238);
+    padding: 30px;
     text-align: center;
     
 }
@@ -13,11 +13,22 @@ nav ul{
 }
 nav li{
     display: inline-flex;
-    margin-right: 25px;
+    margin-right: 160px;
 }
 nav a{
     text-decoration: none;
     color: rgb(143, 17, 17);
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
 }
 main {
     padding: 40px;
